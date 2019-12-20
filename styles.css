@@ -1,0 +1,70 @@
+img {
+    padding: 30px;
+    margin: auto;
+}
+
+h1, h2 {
+    text-align: center;
+    padding: 30px;
+}
+h3 {
+    font-weight: normal;
+    text-align: center;
+}
+
+body {
+    background-image: url(https://wallpaperbro.com/img/72965.jpg);
+    background-attachment: fixed;
+}
+
+#site-header {
+    margin: auto;
+
+}
+#background {
+    display: block;
+}
+
+
+.heading {
+
+    padding: 100px;
+
+
+}
+.padding {
+    padding: 50px;
+}
+
+.half-page {
+    width: 35vw;
+}
+
+/* index.html */
+
+#site-header
+{
+    margin: auto;
+    font-variant: small-caps;
+}
+
+/* language.html */
+
+.lang {
+    display: none;
+}
+
+button {
+    background-color: #fdcba2;
+    color: white;
+    border-color: white;
+}
+
+/* travel.html */
+
+.carousel-item {
+  max-height: 75vw;
+  max-width: 75vw;
+  overflow: hidden;
+  margin: auto;
+}
